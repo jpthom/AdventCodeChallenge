@@ -18,8 +18,6 @@
             }
 
             Console.WriteLine($"Sum: {allInvalidIds.Sum()}");
-
-            // Run through inputs
             Console.ReadLine();
         }
 
